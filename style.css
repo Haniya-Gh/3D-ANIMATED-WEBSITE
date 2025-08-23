@@ -75,3 +75,19 @@ nav a {
 nav a:hover {
     color: #a7a7a7;
 }
+
+.btn-signing {
+    background-color: #a7a7a7;
+    color: black;
+    padding: 0.8rem 2rem; /* added vertical padding */
+    border-radius: 50px;
+    border: none;
+    font-size: 1.1rem; /* slightly bigger text */
+    font-weight: 600;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    cursor: pointer;
+}
+
+.btn-signing:hover {
+    background-color: white;
+}
