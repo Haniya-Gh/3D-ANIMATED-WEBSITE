@@ -1,23 +1,21 @@
-🌐 3D Animated Website
+# 🌐 3D Animated Website  
 
-A modern and interactive 3D animated landing page built with HTML, CSS, and Spline 3D.
-This project features a sleek dark-themed UI, smooth gradients, responsive design, and an embedded 3D robot model using Spline.
+🚀 A sleek and modern **3D animated website** featuring smooth gradients, stunning visuals, and an interactive 🤖 **Spline 3D robot**. Designed with responsive layouts 📱 to look perfect on every device, this project combines creativity and functionality for a professional landing page experience.  
 
-✨ Features
+---
 
-🎨 Stylish gradient background with blur effects
+## ✨ Features  
+- 🎨 Stylish gradient background with blur effects  
+- 🤖 Interactive **3D robot animation** (powered by Spline)  
+- 📱 Fully responsive design for mobiles, tablets, and desktops  
+- 📝 Modern typography and call-to-action buttons  
 
-🤖 Interactive 3D robot animation (powered by Spline)
+---
 
-📱 Fully responsive design for all devices
+## 🛠️ Tech Stack  
+- **HTML5**  
+- **CSS3**  
+- **Spline 3D**  
 
-📝 Modern typography and UI components
 
-🚀 Smooth navigation with CTA buttons
 
-🛠️ Tech Stack
-HTML5
-
-CSS3
-
-Spline 3D
